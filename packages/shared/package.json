@@ -1,0 +1,12 @@
+{
+  "name": "@test/shared",
+  "version": "0.0.1",
+  "description": "shared between web and mobile",
+  "main": "index.js",
+  "author": "suthaw524@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
