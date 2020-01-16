@@ -6,5 +6,6 @@
   },
   "scripts": {
     "new-version": "lerna version --conventional-commits --yes"
-  }
+  },
+  "version": "0.0.0"
 }
